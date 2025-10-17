@@ -1,0 +1,42 @@
+---
+title: "Sebastian Kinnberg Nielsen"
+format:
+  html:
+    code-fold: false
+    bibliography: pubs.bib
+    csl: https://www.zotero.org/styles/vancouver
+nocite: |
+  @*
+---
+
+## About {#about}
+
+PhD student
+
+**Education**
+
+-   Master in medicine 2024
+
+-   Bachelor in medicine 2021
+
+**Work**
+
+-   PhD student, Health and Medical Sciences, University of Copenhagen & Section of Biostatistics & Herlev-Gentofte Hospital, Department of Cardiology
+
+**Interests**
+
+-   Register based studies
+-   Clinical research in echocardiography
+
+Downloads: [CV (PDF)](files/cv.pdf){target="_blank"} · [Publications (PDF)](files/publications.pdf){target="_blank"}
+
+## Contact
+
+email: `Sebastian.kinnberg.nielsen.03@regionh.dk`
+
+## Publications {#mypub}
+
+**Orcid link:** [ORCID](https://orcid.org/0000-0002-3157-8468)\
+
+::: {#refs}
+:::

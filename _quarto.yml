@@ -1,0 +1,21 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "Sebastian Kinnberg Nielsen"
+  site-url: https://sebastiankinnbergnielsen.com   # change later to your real domain
+  navbar:
+    left:
+      - text: "About"
+        href: index.qmd#about
+      - text: "Publications"
+        href: index.qmd#mypub
+      - text: "Contact"
+        href: index.qmd#contact
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: false
