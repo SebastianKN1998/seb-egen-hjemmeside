@@ -11,19 +11,19 @@ nocite: |
 
 ## About {#about}
 
-PhD student
+PhD student. Webpage work in progress
 
-**Education**
+### **Education**
 
 -   Master in medicine 2024
 
 -   Bachelor in medicine 2021
 
-**Work**
+### **Work**
 
 -   PhD student, Health and Medical Sciences, University of Copenhagen & Section of Biostatistics & Herlev-Gentofte Hospital, Department of Cardiology
 
-**Interests**
+### **Interests**
 
 -   Register based studies
 -   Clinical research in echocardiography
@@ -32,11 +32,17 @@ Downloads: [CV (PDF)](files/cv.pdf){target="_blank"} · [Publications (PDF)](fil
 
 ## Contact
 
-email: `Sebastian.kinnberg.nielsen.03@regionh.dk`
+Email: `Sebastian.kinnberg.nielsen.03@regionh.dk`
 
 ## Publications {#mypub}
 
-**Orcid link:** [ORCID](https://orcid.org/0000-0002-3157-8468)\
+Incomplete on webpage
+
+#### **Links:**
+
+#### [ORCID](https://orcid.org/0000-0002-3157-8468)
+
+#### [Google scholar](https://scholar.google.com/citations?user=G7NKxcIAAAAJ&hl=en)
 
 ::: {#refs}
 :::
