@@ -1,0 +1,6 @@
+main.content { max-width: 900px; margin: 0 auto; }
+h1, h2, h3 { scroll-margin-top: 80px; }
+h2 { margin-top: 2.2rem; }
+h3 { margin-top: 1.2rem; }
+a { text-decoration: none; }
+a:hover { text-decoration: underline; }
